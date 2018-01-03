@@ -10,4 +10,4 @@ Would you like to just practice working with a github repository? Follow these s
     * issue the command: `git clone https://github.com/your_user_name/magic-8-ball.git`
 * You now have a copy of the repository to work with as you please! 
 
-For further practice with GIT and GITHUB, checkout the wiki for this repository which details exercises that will lead you through some basic workflows, including branching, merging code, and making a pull request. 
+For further practice with GIT and GITHUB, checkout the Github Guide(https://guides.github.com/activities/hello-world/) which details exercises that will lead you through some basic workflows, including branching, merging code, and making a pull request. 
